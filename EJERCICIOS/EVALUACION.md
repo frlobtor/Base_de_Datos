@@ -55,3 +55,39 @@ constan de un título y una extensión.
 fecha, número de páginas y el número de ejemplares vendidos.
 
 ![image](https://user-images.githubusercontent.com/104279705/170845534-1754836f-613a-44fd-926b-6651c15b8b8b.png)
+
+
+
+
+ CREATE DATABASE editorial;
+ USE editorial;
+ 
+ CREATE TABLE revista (
+num_regis INT  UNSIGNED  PRIMARY KEY,
+tipo VARCHAR(100) NOT NULL,
+titulo_rev VARCHAR(100) NOT NULL,
+periodicidad INT UNSIGNED
+);
+
+
+CREATE TABLE sucursales (
+cod_suc INT  UNSIGNED  PRIMARY KEY,
+tel_suc INT  UNSIGNED,
+domicilio VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE empleados (
+NIF_EMP INT  UNSIGNED  PRIMARY KEY,
+tel_emp INT  UNSIGNED,
+nom_emp VARCHAR(100) NOT NULL,
+ape_emp VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE ejemplar (
+  fecha INT UNSIGNED PRIMARY KEY,
+  num_pag INT UNSIGNED NOT NULL,
+  num_vent INT UNSIGNED NOT NULL,
+  FOREIGN KEY (num_regis2) REFERENCES revista(num_regis)
+  );
+
+
