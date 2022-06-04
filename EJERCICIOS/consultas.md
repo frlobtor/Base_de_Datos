@@ -1,6 +1,9 @@
 En la BD utilizada en clase realiza las siguientes consultas:
 
 * La tabla empleado
+
+![image](https://user-images.githubusercontent.com/104279705/172027940-65252bb7-5fa3-42af-9c42-ca4afea1bdbe.png)
+
 * Los titulos de las revistas
 * Los nombres, apellidos y especialidad de los periodostas
 * Muestra los empleados que estan en x sucursal
