@@ -24,9 +24,19 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
 * En la tabla peridistas muestra solo los que escriban sobre cine
+![image](https://user-images.githubusercontent.com/104279705/172037863-e6bd6834-afab-4997-80fe-14a525ef8afd.png)
+
+
 * De la tabla revistas muestra las que sean de publicacion quincenal
+![image](https://user-images.githubusercontent.com/104279705/172037974-b575f9a1-e36e-4d27-a600-70104cc17318.png)
+
+
 * Muestra el nombre de ka revista que se hayan impreso despues del 30 de septiembre del 2021
+![image](https://user-images.githubusercontent.com/104279705/172038274-66349f44-2735-4679-b75e-dc1bcc8afc61.png)
+
+
 * Muestra el nombre de la revista que se haya publicado en la sucursal 1 cuyos ejemplares tengan más de 80 páginas.
 
 https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1
 
+https://www.db-fiddle.com/f/ovDhGP7Ht4pHN1hX2HLVhX/0
