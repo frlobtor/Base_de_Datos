@@ -28,8 +28,10 @@ Objetivo: Demostrar el uso y aplicación en una base de datos para mejorar la ge
 Ejercicio:
 
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
+2. ![image](https://user-images.githubusercontent.com/104279705/173205991-83a37ecb-be5b-423b-bb5a-f672ce1e95df.png)
 
-![image](https://user-images.githubusercontent.com/104279705/173199121-12045892-9649-4a5b-80b0-fea98e06a624.png)
+![image](https://user-images.githubusercontent.com/104279705/173205986-1067b022-83b1-4490-ba52-09912e317aff.png)
+
 
 
 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
@@ -37,6 +39,10 @@ también debe incluir los fabricantes que no tienen ningún producto. El resulta
 mostrará dos columnas, una con el nombre del fabricante y otra con el número de
 productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
+![image](https://user-images.githubusercontent.com/104279705/173206410-0446405f-5064-4aeb-a6ff-6192a7a7d33a.png)
+![image](https://user-images.githubusercontent.com/104279705/173206416-2f30852e-be6b-4b9d-91d5-77553fd07994.png)
+
+
 
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
