@@ -5,20 +5,39 @@ Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
 
+SELECT. Para consultar registros de la base de datos que satisfagan un criterio determinado.
+INSERT. Para cargar lotes de datos en una única operación.
+UPDATE. Para modificar los valores de los campos y registros especificados.
+DELETE. Para eliminar los registros de una tabla.
+
 2. Menciona 3 tipos de datos que existen: (valor .85)
+
+
+## varchar(n).Una cadena de caracteres de longitud variable con una longitud máxima especificada por el usuario. La forma completa, carácter variable, es equivalente
+##int. Un entero (un subconjunto finito de los enteros dependientes de la máquina). La palabra completa, entero, es equivalente.
+##flotante(n). Un número de coma flotante cuya precisión es, al menos, de n dígito.
 
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
+![image](https://user-images.githubusercontent.com/104279705/173194410-b870137f-9a9a-4a01-b530-54dfb94bbe84.png)
+
+
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
+
+Para establecer este atributo a los campos que requerimos tener datos que no se pueden repetir.
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
+Char es una cadena de caracteres de longitud fija, mientras que varchar es una cadena de caracteres de longitud variable.
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
 
+Structured Query Language, es un lenguaje estándar e interactivo de acceso a bases de datos que permite especificar diversos tipos de relacionales en ellas, el SQL brinda la posibilidad de realizar consultas con el objetivo de recuperar informacion de las bases de datos de manera sencilla. Las consultas toman la forma de un lenguaje de comandos que permite seleccionar, insertar, actualizar, averiguar la ubicación de los datos, y más.
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
+
+Es un editor visual de base de datos MySQL que cuenta con el respaldo oficial de MySQL. Se caracteriza por su editor de diagramas; desde su lienzo es posible arrastrar elementos desde el catálogo o bien añadirlos desde la opción herramientas, disponible en el menú lateral. Para analizar visualmente el esquema, se puede exportarlo en formato imagen o PDF o bien generar un script SQL CREATE o ALTER.
 
 ## Práctica 5.
 ### Gestores de base de datos
