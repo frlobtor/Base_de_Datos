@@ -104,5 +104,4 @@ CREATE TABLE ejemplar (
   num_vent INT UNSIGNED NOT NULL,
   FOREIGN KEY (num_regis2) REFERENCES revista(num_regis)
   );
-https://www.db-fiddle.com/f/mXaZpHVDzHmxBbBk8CG5w/2
-https://www.db-fiddle.com/f/mXaZpHVDzHmxBbBk8CG5w/3
+https://www.db-fiddle.com/f/mXaZpHVDzHmxBbBk8CG5w/5
