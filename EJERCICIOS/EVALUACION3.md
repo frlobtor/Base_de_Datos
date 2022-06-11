@@ -39,14 +39,25 @@ también debe incluir los fabricantes que no tienen ningún producto. El resulta
 mostrará dos columnas, una con el nombre del fabricante y otra con el número de
 productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
-![image](https://user-images.githubusercontent.com/104279705/173206410-0446405f-5064-4aeb-a6ff-6192a7a7d33a.png)
-![image](https://user-images.githubusercontent.com/104279705/173206416-2f30852e-be6b-4b9d-91d5-77553fd07994.png)
+
+![image](https://user-images.githubusercontent.com/104279705/173206675-1766dc85-cc6c-470e-bee4-f56a3ae037ac.png)
+
+
+![image](https://user-images.githubusercontent.com/104279705/173206662-26881edc-628a-4a7d-af4e-720638df68a2.png)
+
+![image](https://user-images.githubusercontent.com/104279705/173206656-f73d6b5e-f76a-4a80-970b-d2bf98763b5b.png)
 
 
 
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
 datos que se solicitan. (valor 4.5)
+
+![image](https://user-images.githubusercontent.com/104279705/173206784-aca63bd4-47bd-466c-87bf-8dba6b989457.png)
+
+
+![image](https://user-images.githubusercontent.com/104279705/173206780-bd82548a-5fab-40bb-8373-fc853fd28f26.png)
+
 
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
 precio medio y el número total de productos de los fabricantes que tienen un precio
