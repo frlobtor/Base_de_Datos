@@ -80,3 +80,4 @@ Modelo entidad/relación
 
 
 Base de datos para MySQL
+https://www.db-fiddle.com/f/29bZW9VJEHM8tZcNXQMJPW/0
