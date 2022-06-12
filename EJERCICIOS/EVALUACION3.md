@@ -68,3 +68,4 @@ medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4
 ![image](https://user-images.githubusercontent.com/104279705/173207542-561bfa0b-9e59-458f-a692-27a5558195fe.png)
 
 
+![image](https://user-images.githubusercontent.com/104279705/173208846-83aa4491-d993-4b61-a14a-052b638c05e1.png)
